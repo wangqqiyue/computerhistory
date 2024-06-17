@@ -129,3 +129,22 @@ Tank是一款街机游戏，由雅达利旗下的Kee Games开发，于1974年11�
 
 发行商：南梦宫 namco
 
+吃豆人游戏里，玩家操作一个名为 Pac-Man 的小黄人在迷宫里穿梭。游戏目标是吃掉迷宫里的所有豆子，同时要躲避4个幽灵的追击。四个幽灵的名字和颜色，分别是 Blinky红色, Pinky粉色, Inky青色, Clyde橙色
+
+当Pac-Man吃掉所有豆子后，就会进入下一关。 如果被幽灵抓住了， Pac-Man 就会失去一条命，3条命耗尽则游戏结束。
+
+Pac-Man 是第一款有角色设计的游戏，黄色的大嘴巴小人 Pac-Man 也成为了家喻户晓的角色。
+
+![](./early-history-of-video-game/Pac_flyer.png)
+
+Pac-Man 也是第一款引入了正真意义上游戏 AI 的游戏。四个幽灵的行为模式各不相同：红色 Blinky 会一直追着 Pac-Man; 粉色 Pinky 和青色 Inky 会跑到 Pac-Man 前面堵他去路, 橙色 Clyde 属于是气氛组，会远离 Pac-Man 移动。
+
+![](./early-history-of-video-game/pac-man.gif)
+
+*Pac-Man 游戏动态画面*
+
+Pac-Man 还设计了简单的道具系统，在迷宫的四个角落会有“大力丸”，Pac-Man 吃到大力丸以后,会持续一段无敌时间。在无敌时间内，幽灵变成蓝白色，这时候 Pac-Man 就可以去吃他们，每吃一个都会增加分数。
+
+这里还有一个在线免费游玩的网址：https://freepacman.org/
+
+Pac-Man 的角色设计、AI设计、道具设计，都给未来的游戏开创了新的设计模式。
